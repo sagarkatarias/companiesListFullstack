@@ -1,3 +1,5 @@
+Run the backend before running the frontend
+Backend is served on port 8000 and frontend on 3000
 
 Create a simple React application that shows a list of construction companies, each with the following information:
 
