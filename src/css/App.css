@@ -1,0 +1,8 @@
+.App {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  max-width: 400px;
+  margin: auto;
+  color: var(--bg-color);
+}
